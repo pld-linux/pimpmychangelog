@@ -1,0 +1,9 @@
+--- pimpmychangelog-0.1.2/bin/pimpmychangelog	2014-01-11 12:45:45.851234404 +0200
++++ pimpmychangelog-0.1.2/bin/pimpmychangelog	2014-01-11 13:00:26.000000000 +0200
+@@ -1,5 +1,5 @@
+ #!/usr/bin/ruby
+ 
+-require File.expand_path('../../lib/pimpmychangelog.rb', __FILE__)
++require 'pimpmychangelog.rb'
+ 
+ PimpMyChangelog::CLI.run!
