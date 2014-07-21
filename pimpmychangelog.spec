@@ -5,7 +5,7 @@
 Summary:	Pimp your CHANGELOG.md
 Name:		pimpmychangelog
 Version:	0.1.2
-Release:	1
+Release:	2
 License:	GPL v2+ or Ruby
 Group:		Applications/Text
 Source0:	http://rubygems.org/downloads/%{name}-%{version}.gem
